@@ -1,0 +1,7 @@
+{
+  "name": "bagsakan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
